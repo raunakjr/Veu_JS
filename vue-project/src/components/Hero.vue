@@ -45,7 +45,7 @@
         </p>
         <div class="flex flex-col gap-2 !mt-5 md:flex-row md:justify-center">
           <button
-            class="bg-blue-300 w-full rounded-lg block mb-10 p-2 md:max-w-[200px] cursor-pointer hover:bg-blue-700 text-white"
+            class="bg-blue-500 w-full rounded-lg block mb-10 p-2 md:max-w-[200px] cursor-pointer hover:bg-blue-700 text-white"
           >
             Download Now
           </button>
@@ -70,7 +70,7 @@
       <div class="flex flex-col gap-5">
         <div class="line1 flex gap-3">
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -81,7 +81,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -92,7 +92,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -103,7 +103,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -114,7 +114,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -125,7 +125,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -136,7 +136,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -147,7 +147,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -158,7 +158,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -169,7 +169,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -180,7 +180,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -191,7 +191,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -202,7 +202,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -215,7 +215,7 @@
         </div>
         <div class="line2 flex gap-3">
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -226,7 +226,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -237,7 +237,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -248,7 +248,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -259,7 +259,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -270,7 +270,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
@@ -281,7 +281,7 @@
             <span class="text-[12px] md:text-[16px]">Unbounce</span>
           </div>
           <div
-            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg hover:translate-y-2 ease-in-out duration-300"
+            class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
           >
             <img
               class="w-12 h-12"
