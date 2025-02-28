@@ -67,7 +67,7 @@
           alt=""
         />
       </div>
-      <div class="flex flex-col gap-5">
+      <div class="flex flex-col gap-5 justify-center items-center">
         <div class="line1 flex gap-3">
           <div
             class="p-5 flex flex-col justify-center bg-gray-100 border-gray-300 rounded-lg"
